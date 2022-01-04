@@ -1,0 +1,9 @@
+{
+	"ip":"51.79.97.99",
+	"port": "41356",
+	"name": "Tesbot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register huhuhu ",
+	"login-cmd":"/login huhuhu "
+}
